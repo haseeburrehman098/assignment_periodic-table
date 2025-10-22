@@ -1,0 +1,5 @@
+*{background-color:aqua;}
+.t1{margin-left: 30px;}
+table, th, tr{ background-color: beige; border:  1px solid black;
+border-collapse: collapse;
+padding: 3px; } 
